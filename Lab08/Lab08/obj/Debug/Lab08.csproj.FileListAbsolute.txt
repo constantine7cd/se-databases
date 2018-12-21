@@ -1,0 +1,7 @@
+C:\Users\Konstantin\Documents\db\Lab08\Lab08\bin\Debug\Lab08.exe.config
+C:\Users\Konstantin\Documents\db\Lab08\Lab08\bin\Debug\Lab08.exe
+C:\Users\Konstantin\Documents\db\Lab08\Lab08\bin\Debug\Lab08.pdb
+C:\Users\Konstantin\Documents\db\Lab08\Lab08\obj\Debug\Lab08.csprojAssemblyReference.cache
+C:\Users\Konstantin\Documents\db\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Documents\db\Lab08\Lab08\obj\Debug\Lab08.exe
+C:\Users\Konstantin\Documents\db\Lab08\Lab08\obj\Debug\Lab08.pdb

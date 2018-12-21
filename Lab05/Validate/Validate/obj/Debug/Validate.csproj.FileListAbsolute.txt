@@ -1,0 +1,7 @@
+C:\Users\Konstantin\Documents\db\Lab05\Validate\Validate\bin\Debug\Validate.exe.config
+C:\Users\Konstantin\Documents\db\Lab05\Validate\Validate\bin\Debug\Validate.exe
+C:\Users\Konstantin\Documents\db\Lab05\Validate\Validate\bin\Debug\Validate.pdb
+C:\Users\Konstantin\Documents\db\Lab05\Validate\Validate\obj\Debug\Validate.csprojAssemblyReference.cache
+C:\Users\Konstantin\Documents\db\Lab05\Validate\Validate\obj\Debug\Validate.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Documents\db\Lab05\Validate\Validate\obj\Debug\Validate.exe
+C:\Users\Konstantin\Documents\db\Lab05\Validate\Validate\obj\Debug\Validate.pdb

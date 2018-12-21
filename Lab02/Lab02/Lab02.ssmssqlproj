@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Lab02">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="KONSTANTIN39EC:KONSTANTIN39EC\Konstantin">
+          <Created>2018-10-05T16:04:51.7368198+03:00</Created>
+          <Type>SQL</Type>
+          <Server>KONSTANTIN39EC</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="alterDrLic.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KONSTANTIN39EC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KONSTANTIN39EC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>alterDrLic.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_db.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KONSTANTIN39EC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KONSTANTIN39EC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>create_db.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KONSTANTIN39EC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KONSTANTIN39EC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>create_tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="drop_db.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KONSTANTIN39EC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KONSTANTIN39EC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>drop_db.sql</FullPath>
+        </FileNode>
+        <FileNode Name="parse_csv.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KONSTANTIN39EC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KONSTANTIN39EC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>parse_csv.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KONSTANTIN39EC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KONSTANTIN39EC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KONSTANTIN39EC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KONSTANTIN39EC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

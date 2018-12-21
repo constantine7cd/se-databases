@@ -1,0 +1,4 @@
+ALTER DATABASE [GIBDD] SET TRUSTWORTHY ON;
+EXEC sp_configure 'clr enabled', 1;
+RECONFIGURE;
+GO

@@ -1,0 +1,7 @@
+C:\Users\Konstantin\Documents\db\Lab06\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\Konstantin\Documents\db\Lab06\Lab06\bin\Debug\Lab06.exe
+C:\Users\Konstantin\Documents\db\Lab06\Lab06\bin\Debug\Lab06.pdb
+C:\Users\Konstantin\Documents\db\Lab06\Lab06\obj\Debug\Lab06.csprojAssemblyReference.cache
+C:\Users\Konstantin\Documents\db\Lab06\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Documents\db\Lab06\Lab06\obj\Debug\Lab06.exe
+C:\Users\Konstantin\Documents\db\Lab06\Lab06\obj\Debug\Lab06.pdb

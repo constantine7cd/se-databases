@@ -1,0 +1,470 @@
+<!DOCTYPE root[
+	<!ELEMENT Drivers (Fines, FCost)>
+	<!ATTLIST Drivers Did CDATA #REQUIRED>
+	<!ELEMENT Fines (FCost)>
+	<!ATTLIST Fines FineId ID #IMPLIED>
+	<!ATTLIST Fines Cause CDATA #REQUIRED>
+	<!ELEMENT FCost EMPTY>
+	<!ATTLIST FCost Cost CDATA #REQUIRED>	
+]>
+<!--xml-stylesheet2-->
+<root>
+  <Drivers Did="A1">
+    <Fines FineId="16" Cause="red traffic light"> Yep
+		<FCost Cost="8780" /></Fines>
+  </Drivers>
+  <Drivers Did="2" />
+  <Drivers Did="2">
+    <Fines FineId="A33" Cause="red traffic light">
+      <FCost Cost="9144" />
+    </Fines>
+    <Fines FineId="62" Cause="solid">
+      <FCost Cost="18030" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="A3">
+    <Fines FineId="75" Cause="red traffic light">
+      <FCost Cost="13628" />
+    </Fines>
+  </Drivers>
+  <!--Comment N1-->
+  <Drivers Did="4">
+    <Fines FineId="51" Cause="solid">
+      <FCost Cost="6052" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="5">
+    <Fines FineId="53" Cause="busline">
+      <FCost Cost="16773" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="6" />
+  <Drivers Did="6">
+    <Fines FineId="7" Cause="red traffic light">
+      <FCost Cost="15478" />
+    </Fines>
+    <Fines FineId="81" Cause="busline">
+      <FCost Cost="8364" />
+    </Fines>
+  </Drivers>
+  <!--Comment N2-->
+  <Drivers Did="7">
+    <Fines FineId="88" Cause="busline">
+      <FCost Cost="23829" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="8">
+    <Fines FineId="74" Cause="speed limit">
+      <FCost Cost="17788" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="10" />
+  <Drivers Did="10">
+    <Fines FineId="45" Cause="solid">
+      <FCost Cost="7420" />
+    </Fines>
+    <Fines FineId="59" Cause="red traffic light">
+      <FCost Cost="12582" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="11" />
+  <Drivers Did="11" />
+  <Drivers Did="11" />
+  <Drivers Did="11">
+    <Fines FineId="50" Cause="busline">
+      <FCost Cost="27264" />
+    </Fines>
+    <Fines FineId="61" Cause="busline">
+      <FCost Cost="4287" />
+    </Fines>
+    <Fines FineId="72" Cause="solid">
+      <FCost Cost="11530" />
+    </Fines>
+    <Fines FineId="89" Cause="busline">
+      <FCost Cost="7248" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="13" />
+  <Drivers Did="13" />
+  <Drivers Did="13">
+    <Fines FineId="22" Cause="busline">
+      <FCost Cost="10848" />
+    </Fines>
+    <Fines FineId="23" Cause="red traffic light">
+      <FCost Cost="5560" />
+    </Fines>
+    <Fines FineId="42" Cause="solid">
+      <FCost Cost="2398" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="14">
+    <Fines FineId="34" Cause="speed limit">
+      <FCost Cost="12562" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="15" />
+  <Drivers Did="15">
+    <Fines FineId="20" Cause="solid">
+      <FCost Cost="9136" />
+    </Fines>
+    <Fines FineId="86" Cause="speed limit">
+      <FCost Cost="14004" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="16">
+    <Fines FineId="64" Cause="speed limit">
+      <FCost Cost="8764" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="19" />
+  <Drivers Did="19">
+    <Fines FineId="26" Cause="solid">
+      <FCost Cost="16966" />
+    </Fines>
+    <Fines FineId="69" Cause="busline">
+      <FCost Cost="22035" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="22" />
+  <Drivers Did="22" />
+  <Drivers Did="22">
+    <Fines FineId="27" Cause="busline">
+      <FCost Cost="24774" />
+    </Fines>
+    <Fines FineId="35" Cause="solid">
+      <FCost Cost="2914" />
+    </Fines>
+    <Fines FineId="93" Cause="speed limit">
+      <FCost Cost="1158" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="23">
+    <Fines FineId="79" Cause="red traffic light">
+      <FCost Cost="11910" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="24">
+    <Fines FineId="99" Cause="red traffic light">
+      <FCost Cost="19860" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="25">
+    <Fines FineId="58" Cause="red traffic light">
+      <FCost Cost="17938" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="27">
+    <Fines FineId="43" Cause="speed limit">
+      <FCost Cost="8140" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="30" />
+  <Drivers Did="30" />
+  <Drivers Did="30">
+    <Fines FineId="31" Cause="red traffic light">
+      <FCost Cost="5068" />
+    </Fines>
+    <Fines FineId="49" Cause="red traffic light">
+      <FCost Cost="18710" />
+    </Fines>
+    <Fines FineId="91" Cause="red traffic light">
+      <FCost Cost="4692" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="31">
+    <Fines FineId="30" Cause="red traffic light">
+      <FCost Cost="13268" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="32">
+    <Fines FineId="87" Cause="red traffic light">
+      <FCost Cost="15096" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="37">
+    <Fines FineId="40" Cause="busline">
+      <FCost Cost="29184" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="39" />
+  <Drivers Did="39" />
+  <Drivers Did="39">
+    <Fines FineId="37" Cause="solid">
+      <FCost Cost="2528" />
+    </Fines>
+    <Fines FineId="96" Cause="red traffic light">
+      <FCost Cost="4368" />
+    </Fines>
+    <Fines FineId="97" Cause="red traffic light">
+      <FCost Cost="13382" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="40">
+    <Fines FineId="73" Cause="red traffic light">
+      <FCost Cost="6414" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="41">
+    <Fines FineId="67" Cause="speed limit">
+      <FCost Cost="2674" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="42">
+    <Fines FineId="24" Cause="busline">
+      <FCost Cost="9114" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="43" />
+  <Drivers Did="43">
+    <Fines FineId="17" Cause="busline">
+      <FCost Cost="1908" />
+    </Fines>
+    <Fines FineId="84" Cause="speed limit">
+      <FCost Cost="16854" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="45">
+    <Fines FineId="57" Cause="speed limit">
+      <FCost Cost="11102" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="46" />
+  <Drivers Did="46">
+    <Fines FineId="13" Cause="solid">
+      <FCost Cost="17268" />
+    </Fines>
+    <Fines FineId="83" Cause="speed limit">
+      <FCost Cost="6168" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="47" />
+  <Drivers Did="47">
+    <Fines FineId="9" Cause="busline">
+      <FCost Cost="25845" />
+    </Fines>
+    <Fines FineId="38" Cause="solid">
+      <FCost Cost="17704" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="48">
+    <Fines FineId="11" Cause="speed limit">
+      <FCost Cost="11688" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="51">
+    <Fines FineId="68" Cause="solid">
+      <FCost Cost="14472" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="52" />
+  <Drivers Did="52">
+    <Fines FineId="52" Cause="red traffic light">
+      <FCost Cost="14044" />
+    </Fines>
+    <Fines FineId="94" Cause="red traffic light">
+      <FCost Cost="17044" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="53">
+    <Fines FineId="15" Cause="red traffic light">
+      <FCost Cost="5484" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="55">
+    <Fines FineId="54" Cause="speed limit">
+      <FCost Cost="8402" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="57">
+    <Fines FineId="28" Cause="busline">
+      <FCost Cost="21594" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="58">
+    <Fines FineId="76" Cause="red traffic light">
+      <FCost Cost="19510" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="59" />
+  <Drivers Did="59">
+    <Fines FineId="44" Cause="solid">
+      <FCost Cost="12756" />
+    </Fines>
+    <Fines FineId="95" Cause="solid">
+      <FCost Cost="19356" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="61" />
+  <Drivers Did="61">
+    <Fines FineId="65" Cause="solid">
+      <FCost Cost="3506" />
+    </Fines>
+    <Fines FineId="85" Cause="busline">
+      <FCost Cost="11214" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="62" />
+  <Drivers Did="62" />
+  <Drivers Did="62" />
+  <Drivers Did="62">
+    <Fines FineId="19" Cause="red traffic light">
+      <FCost Cost="17994" />
+    </Fines>
+    <Fines FineId="36" Cause="busline">
+      <FCost Cost="2655" />
+    </Fines>
+    <Fines FineId="60" Cause="solid">
+      <FCost Cost="7650" />
+    </Fines>
+    <Fines FineId="100" Cause="red traffic light">
+      <FCost Cost="8904" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="64">
+    <Fines FineId="82" Cause="red traffic light">
+      <FCost Cost="2338" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="66">
+    <Fines FineId="80" Cause="solid">
+      <FCost Cost="5752" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="68">
+    <Fines FineId="71" Cause="speed limit">
+      <FCost Cost="11368" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="70" />
+  <Drivers Did="70">
+    <Fines FineId="46" Cause="speed limit">
+      <FCost Cost="8840" />
+    </Fines>
+    <Fines FineId="66" Cause="speed limit">
+      <FCost Cost="8880" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="71">
+    <Fines FineId="39" Cause="speed limit">
+      <FCost Cost="3780" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="72" />
+  <Drivers Did="72" />
+  <Drivers Did="72">
+    <Fines FineId="5" Cause="red traffic light">
+      <FCost Cost="19106" />
+    </Fines>
+    <Fines FineId="10" Cause="busline">
+      <FCost Cost="12039" />
+    </Fines>
+    <Fines FineId="90" Cause="speed limit">
+      <FCost Cost="9012" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="74">
+    <Fines FineId="98" Cause="busline">
+      <FCost Cost="17106" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="76">
+    <Fines FineId="70" Cause="busline">
+      <FCost Cost="10158" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="78">
+    <Fines FineId="48" Cause="speed limit">
+      <FCost Cost="8464" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="80">
+    <Fines FineId="63" Cause="red traffic light">
+      <FCost Cost="14936" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="82" />
+  <Drivers Did="82">
+    <Fines FineId="77" Cause="busline">
+      <FCost Cost="10392" />
+    </Fines>
+    <Fines FineId="78" Cause="busline">
+      <FCost Cost="6951" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="83">
+    <Fines FineId="4" Cause="red traffic light">
+      <FCost Cost="10092" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="84">
+    <Fines FineId="18" Cause="busline">
+      <FCost Cost="11790" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="85">
+    <Fines FineId="12" Cause="red traffic light">
+      <FCost Cost="7010" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="88" />
+  <Drivers Did="88">
+    <Fines FineId="25" Cause="solid">
+      <FCost Cost="8870" />
+    </Fines>
+    <Fines FineId="55" Cause="solid">
+      <FCost Cost="1530" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="90">
+    <Fines FineId="14" Cause="speed limit">
+      <FCost Cost="9454" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="91" />
+  <Drivers Did="91">
+    <Fines FineId="6" Cause="speed limit">
+      <FCost Cost="9242" />
+    </Fines>
+    <Fines FineId="47" Cause="busline">
+      <FCost Cost="9891" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="93">
+    <Fines FineId="32" Cause="solid">
+      <FCost Cost="7944" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="94">
+    <Fines FineId="29" Cause="red traffic light">
+      <FCost Cost="14010" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="96" />
+  <Drivers Did="96">
+    <Fines FineId="8" Cause="solid">
+      <FCost Cost="2142" />
+    </Fines>
+    <Fines FineId="21" Cause="red traffic light">
+      <FCost Cost="13856" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="98">
+    <Fines FineId="56" Cause="speed limit">
+      <FCost Cost="18828" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="99">
+    <Fines FineId="92" Cause="busline">
+      <FCost Cost="27843" />
+    </Fines>
+  </Drivers>
+  <Drivers Did="100" />
+  <Drivers Did="100">
+    <Fines FineId="3" Cause="solid">
+      <FCost Cost="1160" />
+    </Fines>
+    <Fines FineId="41" Cause="solid">
+      <FCost Cost="2930" />
+    </Fines>
+  </Drivers>
+</root>

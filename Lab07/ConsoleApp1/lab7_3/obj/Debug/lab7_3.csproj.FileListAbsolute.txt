@@ -1,0 +1,12 @@
+C:\Users\Ivan\source\repos\ConsoleApp1\lab7_3\bin\Debug\lab7_3.exe
+C:\Users\Ivan\source\repos\ConsoleApp1\lab7_3\bin\Debug\lab7_3.pdb
+C:\Users\Ivan\source\repos\ConsoleApp1\lab7_3\obj\Debug\lab7_3.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\ConsoleApp1\lab7_3\obj\Debug\lab7_3.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ConsoleApp1\lab7_3\obj\Debug\lab7_3.exe
+C:\Users\Ivan\source\repos\ConsoleApp1\lab7_3\obj\Debug\lab7_3.pdb
+C:\Users\Konstantin\Documents\db\Lab07\ConsoleApp1\lab7_3\obj\Debug\lab7_3.csprojAssemblyReference.cache
+C:\Users\Konstantin\Documents\db\Lab07\ConsoleApp1\lab7_3\obj\Debug\lab7_3.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Documents\db\Lab07\ConsoleApp1\lab7_3\obj\Debug\lab7_3.exe
+C:\Users\Konstantin\Documents\db\Lab07\ConsoleApp1\lab7_3\obj\Debug\lab7_3.pdb
+C:\Users\Konstantin\Documents\db\Lab07\ConsoleApp1\lab7_3\bin\Debug\lab7_3.exe
+C:\Users\Konstantin\Documents\db\Lab07\ConsoleApp1\lab7_3\bin\Debug\lab7_3.pdb

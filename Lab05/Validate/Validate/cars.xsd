@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="note">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="row">
+					<xs:complexType>
+						<xs:attribute name="CarId" type="xs:unsignedByte" use="required" />
+						<xs:attribute name="CarName" type="xs:string" use="required" />
+						<xs:attribute name="CarVin" type="xs:unsignedLong" use="required" />
+						<xs:attribute name="CarDate" type="xs:date" use="required" />
+						<xs:attribute name="CarBody" type="xs:string" use="required" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

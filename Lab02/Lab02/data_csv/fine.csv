@@ -1,0 +1,101 @@
+fine_id,cost,cause,state,driver_id
+0,2502,red traffic light,1,27
+1,6911,busline,0,5
+2,580,solid,1,100
+3,5046,red traffic light,0,83
+4,9553,red traffic light,0,72
+5,4621,speed limit,0,91
+6,7739,red traffic light,0,6
+7,1071,solid,0,96
+8,8615,busline,0,47
+9,4013,busline,1,72
+10,5844,speed limit,1,48
+11,3505,red traffic light,0,85
+12,8634,solid,0,46
+13,4727,speed limit,1,90
+14,2742,red traffic light,1,53
+15,4390,red traffic light,1,1
+16,636,busline,1,43
+17,3930,busline,0,84
+18,8997,red traffic light,1,62
+19,4568,solid,0,15
+20,6928,red traffic light,1,96
+21,3616,busline,1,13
+22,2780,red traffic light,1,13
+23,3038,busline,0,42
+24,4435,solid,0,88
+25,8483,solid,1,19
+26,8258,busline,1,22
+27,7198,busline,0,57
+28,7005,red traffic light,0,94
+29,6634,red traffic light,1,31
+30,2534,red traffic light,0,30
+31,3972,solid,1,93
+32,4572,red traffic light,0,2
+33,6281,speed limit,1,14
+34,1457,solid,1,22
+35,885,busline,0,62
+36,1264,solid,0,39
+37,8852,solid,0,47
+38,1890,speed limit,1,71
+39,9728,busline,0,37
+40,1465,solid,0,100
+41,1199,solid,1,13
+42,4070,speed limit,1,27
+43,6378,solid,0,59
+44,3710,solid,0,10
+45,4420,speed limit,1,70
+46,3297,busline,1,91
+47,4232,speed limit,0,78
+48,9355,red traffic light,0,30
+49,9088,busline,0,11
+50,3026,solid,0,4
+51,7022,red traffic light,0,52
+52,5591,busline,1,5
+53,4201,speed limit,1,55
+54,765,solid,1,88
+55,9414,speed limit,0,98
+56,5551,speed limit,0,45
+57,8969,red traffic light,0,25
+58,6291,red traffic light,0,10
+59,3825,solid,1,62
+60,1429,busline,0,11
+61,9015,solid,1,2
+62,7468,red traffic light,0,80
+63,4382,speed limit,0,16
+64,1753,solid,0,61
+65,4440,speed limit,0,70
+66,1337,speed limit,0,41
+67,7236,solid,0,51
+68,7345,busline,0,19
+69,3386,busline,1,76
+70,5684,speed limit,1,68
+71,5765,solid,1,11
+72,3207,red traffic light,0,40
+73,8894,speed limit,0,8
+74,6814,red traffic light,1,3
+75,9755,red traffic light,0,58
+76,3464,busline,0,82
+77,2317,busline,1,82
+78,5955,red traffic light,1,23
+79,2876,solid,1,66
+80,2788,busline,1,6
+81,1169,red traffic light,0,64
+82,3084,speed limit,1,46
+83,8427,speed limit,1,43
+84,3738,busline,1,61
+85,7002,speed limit,0,15
+86,7548,red traffic light,0,32
+87,7943,busline,0,7
+88,2416,busline,1,11
+89,4506,speed limit,0,72
+90,2346,red traffic light,0,30
+91,9281,busline,0,99
+92,579,speed limit,1,22
+93,8522,red traffic light,1,52
+94,9678,solid,0,59
+95,2184,red traffic light,0,39
+96,6691,red traffic light,1,39
+97,5702,busline,1,74
+98,9930,red traffic light,0,24
+99,4452,red traffic light,1,62
